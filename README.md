@@ -1,2 +1,2 @@
 # hexlet-js
-JS working with env
+Мой первый проект на Хекслете
